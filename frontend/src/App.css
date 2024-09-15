@@ -1,0 +1,31 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0;
+  padding: 0;
+  min-height: 100lvh;
+  font-family: "Space Grotesk", sans-serif;
+  /* text-align: center; */
+}
+
+.font-SpaceGrotesk{
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.navlinks-active{
+  background-color: hsl(var(--background)); 
+  color: hsl(var(--accent-foreground));
+  transition: all;
+}
+
+.navlinks-inactive{
+  color: hsl(0, 0%, 50%);
+}
+
+.main{
+  height: 100%;
+  width: 100%;
+}
+
+#drawarea, #timer{
+  display: none;
+}

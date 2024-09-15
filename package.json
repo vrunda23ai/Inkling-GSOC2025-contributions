@@ -1,0 +1,23 @@
+{
+  "name": "scribble",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build --prefix frontend",
+    "deploy-cluster": "npm run cluster --prefix backend",
+    "install-server": "npm install --prefix backend",
+    "install-client": "npm install --prefix frontend",
+    "install": "npm run install-client && npm run install-server",
+    "server": "npm run dev --prefix backend",
+    "client": "npm run dev --prefix frontend",
+    "knip": "npm run knip --prefix backend",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.1"
+  }
+}
