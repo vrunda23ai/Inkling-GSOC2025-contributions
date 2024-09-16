@@ -1,20 +1,21 @@
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { memo } from 'react';
 
-import GameMenu from "./pages/GameMenu.tsx";
-import Account from "./pages/Account.tsx";
-import Game from "./pages/Game.tsx";
+// import GameMenu from "./pages/GameMenu.tsx";
+// import Account from "./pages/Account.tsx";
+// import Game from "./pages/Game.tsx";
+import Daiict from "./pages/Daiict.tsx";
 import Header from "./components/Header.tsx";
 import { Toaster } from "@/components/ui/sonner"
 
 import "./App.css";
 
-import { useAuthContext, AuthContextType } from "./context/AuthContext.tsx";
+// import { useAuthContext, AuthContextType } from "./context/AuthContext.tsx";
 import { useGameContext, GameContextType } from "./context/GameContext.tsx";
 
 function App() {
 
-  const { authUser } = useAuthContext() as AuthContextType;
+  // const { authUser } = useAuthContext() as AuthContextType;
   const { gameDetails } = useGameContext() as GameContextType;
   console.log(gameDetails);
 
@@ -23,7 +24,7 @@ function App() {
       <main className="h-[100lvh] flex flex-col overflow-hidden">
       <Header />
       <Routes>
-        <Route index 
+        {/* <Route index 
           element={(authUser === undefined) 
             ? <Account /> 
             : <Navigate to="/gameMenu"/>}
@@ -43,6 +44,9 @@ function App() {
             : (
                 <Game/>
             )} 
+        /> */}
+        <Route path="/"
+          element={<Daiict/>} 
         />
       </Routes>
       <Toaster className="cursor-grab" />

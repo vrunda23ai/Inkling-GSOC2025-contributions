@@ -13,6 +13,11 @@ export type roomCode = {
     code?: string;
 };
 
+export type CardDetails = {
+    error?: string;
+    success?: string;
+}
+
 export type errorMessage = {
     error?: string;
 }
@@ -481,6 +486,26 @@ function useSocket() {
     }
 }
 
+const DAIICTidSchema = z.number({ message: "Invalid id" }).refine((id) => {
+    return id.toString().length === 9;
+}, {
+    message: "ID must be 9 digits long"
+});
+const sendDAIICTid = (DAIICTid: number): Promise<CardDetails> => {
+    return new Promise((resolve) => {
+        
+        const zodResults = DAIICTidSchema.safeParse(DAIICTid);
+        if(!zodResults.success){
+            resolve({error:`U F*cked up !! Follow Readme and try again : ${zodResults.error.format()._errors[0]}`});
+            return;
+        } else {
+            resolve({success:`U pass, commit and create a pull request !!!`});
+            return;
+        }
+    })
+};
+
 export {
-    useSocket
+    useSocket,
+    sendDAIICTid
 }

@@ -7,11 +7,11 @@ import {
 } from "@/components/ui/menubar";
 import Account from "./Profile";
 
-import { useAuthContext, AuthContextType } from "../context/AuthContext.tsx";
+// import { useAuthContext, AuthContextType } from "../context/AuthContext.tsx";
 
 function Header() {
 
-    const { authUser } = useAuthContext() as AuthContextType;
+    // const { authUser } = useAuthContext() as AuthContextType;
 
     useEffect(() => {
         const elements = document.getElementsByClassName('navlinks');
@@ -31,7 +31,7 @@ function Header() {
         <nav className="grid grid-cols-4">
             <div className="h-fit w-fit p-2 col-span-3">
                 <Menubar>
-                    {
+                    {/* {
                         (authUser === undefined)
                         ?   <MenubarMenu>
                                 <button className="navlinks navlinks-inactive pointer-events-none h-7 w-20 px- py-2 inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50">Game</button>
@@ -45,7 +45,12 @@ function Header() {
                                 </Link>
                                 <button className="navlinks navlinks-inactive pointer-events-none h-7 w-20 px-3 py-2 inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50">Account</button>
                             </MenubarMenu>
-                    }
+                    } */}
+                    <MenubarMenu>
+                        <Link to="/">
+                            <button className="navlinks navlinks-active h-7 w-20 px-3 py-2 inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50">DAIICT</button>
+                        </Link>
+                    </MenubarMenu>
                 </Menubar>
             </div>
             <div className="flex justify-end items-center p-2">
