@@ -43,7 +43,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd first-contributions
+cd Inkling-GSOC2025-contributions
 ```
 
 Now create a branch using the `git switch` command:
@@ -61,46 +61,37 @@ git switch -c 202301272
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Run `npm i` to install necessary dependencies.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+Now open `frontend/src/utils/DAIICTids` folder in a text editor, add a file with name as `202XXXXXX.tsx`. Now copy paste the code from `202301272.tsx`. **Make sure to make necessary changes to your `202XXXXXX.tsx` file.**
+
+Now open `frontend/src/pages/Daiict.tsx` file and import your component i.e `202XXXXXX.tsx` as `Daiictid202XXXXXX` and add it inside the div where you can see others id / where you can see `<Daiictid202301272/>`.
+
+Now go to the root directory and run `npm run client` and if a error message pops up check again and redo the steps. If you can see your card without any error message create go ahead and add and commit your changes.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```bash
-git add Contributors.md
+git add .
 ```
 
 Now commit those changes using the `git commit` command:
 
 ```bash
-git commit -m "Add your-name to Contributors list"
+git commit -m "feat(202XXXXXX): added 202XXXXXX id card component."
 ```
-
-replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
 
 ```bash
-git push -u origin your-branch-name
+git push -u origin 202XXXXXX
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
-
-<details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
-
-- ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
-
-</details>
+replacing `202XXXXXX` with the name of the branch i.e. your student ID that you created earlier.
 
 ## Submit your changes for review
 
@@ -109,7 +100,8 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
+where `Add this is you` is written write this: `feat(202XXXXXX): added 202XXXXXX id card component`.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Soon we will merge all your changes into the main branch of this project.
