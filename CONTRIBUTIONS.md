@@ -2,4 +2,5 @@
 - 202201311 Dharmik Godhani
 - 202301447 Atik Vohra
 - 202301272 Dhruv Jain
+- 202301023 Tirth Patel
 
