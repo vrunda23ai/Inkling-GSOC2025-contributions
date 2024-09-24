@@ -4,3 +4,4 @@
 - 202301272 Dhruv Jain
 - 202301023 Tirth Patel
 - 202311043 Nirmal Shah
+- 202312095 Hiten Solanki
