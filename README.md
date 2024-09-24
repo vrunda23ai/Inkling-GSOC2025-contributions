@@ -62,7 +62,7 @@ git switch -c 202XXXXXX
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your DAIICT ID and your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `CONTRIBUTIONS.md` file in a text editor, add your DAIICT ID and your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -99,6 +99,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
+where `Add this is you` is written write this: `contri(202XXXXXX): added 202XXXXXX to CONTRIBUTIONS.md`.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
