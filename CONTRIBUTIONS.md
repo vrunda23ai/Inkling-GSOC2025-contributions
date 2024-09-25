@@ -7,4 +7,5 @@
 - 202311043 Nirmal Shah
 - 202312095 Hiten Solanki
 - 202303007 Dhyey Parekh
+- 202201309 Yash Mehta
 - 202201409 Ramya Shah
