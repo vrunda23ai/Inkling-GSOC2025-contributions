@@ -10,6 +10,8 @@
 - 202411049 Vrajkumar Patel
 - 202311023 Samarth Motka
 - 202303007 Dhyey Parekh
+- 202301055 Parva Raval
 - 202201309 Yash Mehta
 - 202201409 Ramya Shah
 - 202312051 Abdullah Memon
+git add CONTRIBUTIONS.md
