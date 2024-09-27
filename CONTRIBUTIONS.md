@@ -15,4 +15,3 @@
 - 202201409 Ramya Shah
 - 202312051 Abdullah Memon
 - 202301103 Krish Makwana
-git add CONTRIBUTIONS.md
