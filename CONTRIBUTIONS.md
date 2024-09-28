@@ -9,6 +9,7 @@
 - 202411039 Monson Reji Verghese
 - 202411049 Vrajkumar Patel
 - 202311023 Samarth Motka
+- 202311066 Ayush Sahu
 - 202303007 Dhyey Parekh
 - 202301055 Parva Raval
 - 202201309 Yash Mehta
