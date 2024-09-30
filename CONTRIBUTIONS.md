@@ -8,6 +8,7 @@
 - 202312095 Hiten Solanki
 - 202411039 Monson Reji Verghese
 - 202411049 Vrajkumar Patel
+- 202412040 Virag Koradiya
 - 202311023 Samarth Motka
 - 202311066 Ayush Sahu
 - 202303007 Dhyey Parekh
