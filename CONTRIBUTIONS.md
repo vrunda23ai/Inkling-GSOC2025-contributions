@@ -19,3 +19,4 @@
 - 202301103 Krish Makwana
 - 202301039 Parshv Joshi
 - 202412103 Shashank Kumar
+- 202203044 Krushi Sutariya
