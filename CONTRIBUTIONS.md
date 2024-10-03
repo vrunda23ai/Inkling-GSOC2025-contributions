@@ -4,6 +4,7 @@
 - 202301447 Atik Vohra
 - 202301272 Dhruv Jain
 - 202301023 Tirth Patel
+- 202412024 Hitiksha Jagani
 - 202311043 Nirmal Shah
 - 202312095 Hiten Solanki
 - 202411039 Monson Reji Verghese
@@ -22,3 +23,4 @@
 - 202412103 Shashank Kumar
 - 202412076 Pratyush Jha
 - 202203044 Krushi Sutariya
+- 
