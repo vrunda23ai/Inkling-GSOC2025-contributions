@@ -1,4 +1,26 @@
 # Write your DAIICT ID below.
-
-- 202301272 Dhruv Jain
 - 202412050 Nishit Nagar
+
+- 202201311 Dharmik Godhani
+- 202201088 Mihir Moolchandani
+- 202301447 Atik Vohra
+- 202301272 Dhruv Jain
+- 202301023 Tirth Patel
+- 202311043 Nirmal Shah
+- 202312095 Hiten Solanki
+- 202411039 Monson Reji Verghese
+- 202411049 Vrajkumar Patel
+- 202412040 Virag Koradiya
+- 202412074 Anirudh Lohiya
+- 202311023 Samarth Motka
+- 202311066 Ayush Sahu
+- 202303007 Dhyey Parekh
+- 202301055 Parva Raval
+- 202201309 Yash Mehta
+- 202201409 Ramya Shah
+- 202312051 Abdullah Memon
+- 202301103 Krish Makwana
+- 202301039 Parshv Joshi
+- 202412103 Shashank Kumar
+- 202412076 Pratyush Jha
+- 202203044 Krushi Sutariya
