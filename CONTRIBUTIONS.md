@@ -17,6 +17,7 @@
 - 202401415 Dhruvam Panchal
 - 202311023 Samarth Motka
 - 202311066 Ayush Sahu
+- 202411008 Parikshit Joshi
 - 202412090 Anuj Shah
 - 202303007 Dhyey Parekh
 - 202301055 Parva Raval
