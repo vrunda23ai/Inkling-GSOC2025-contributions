@@ -40,3 +40,5 @@
 - 202411008 Parikshit Joshi
 - 202203067 Bhavya Boda
 - 202203013 Yuvraj Kathad
+- 202418004 Adarsh Ambastha
+- 202203013 Yuvraj Kathad
