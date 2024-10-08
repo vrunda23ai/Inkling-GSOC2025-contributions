@@ -13,11 +13,11 @@
 - 202411039 Monson Reji Verghese
 - 202411049 Vrajkumar Patel
 - 202412040 Virag Koradiya
+- 202412058 Harsh Parakh
 - 202412074 Anirudh Lohiya
 - 202401415 Dhruvam Panchal
 - 202311023 Samarth Motka
 - 202311066 Ayush Sahu
-- 202411008 Parikshit Joshi
 - 202412090 Anuj Shah
 - 202303007 Dhyey Parekh
 - 202301055 Parva Raval
@@ -36,3 +36,4 @@
 - 202412122 Jainam Vora
 - 202301116 Kavya Chauhan
 - 202301035 Dhruvil Patel
+- 202411008 Parikshit Joshi
