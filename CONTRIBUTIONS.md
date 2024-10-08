@@ -37,3 +37,4 @@
 - 202301116 Kavya Chauhan
 - 202301035 Dhruvil Patel
 - 202411008 Parikshit Joshi
+- 202201346 Nisharg Modi
