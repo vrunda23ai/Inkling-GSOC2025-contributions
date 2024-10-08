@@ -12,6 +12,7 @@
 - 202411039 Monson Reji Verghese
 - 202411049 Vrajkumar Patel
 - 202412040 Virag Koradiya
+- 202412122 Jainam Vora
 - 202412074 Anirudh Lohiya
 - 202401415 Dhruvam Panchal
 - 202311023 Samarth Motka
