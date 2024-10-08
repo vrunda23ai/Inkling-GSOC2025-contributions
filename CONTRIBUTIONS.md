@@ -27,5 +27,6 @@
 - 202412103 Shashank Kumar
 - 202412076 Pratyush Jha
 - 202412077 Vashisht Purani
+- 202301135 Kashish Kanjariya
 - 202203044 Krushi Sutariya
 - 202201504 Kishan Pansuriya
