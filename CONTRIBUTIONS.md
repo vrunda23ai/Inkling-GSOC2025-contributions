@@ -10,6 +10,7 @@
 - 202412024 Hitiksha Jagani
 - 202311043 Nirmal Shah
 - 202312095 Hiten Solanki
+- 202203013 Yuvraj Kathad
 - 202411039 Monson Reji Verghese
 - 202411049 Vrajkumar Patel
 - 202412040 Virag Koradiya
