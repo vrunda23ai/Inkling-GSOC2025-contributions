@@ -30,3 +30,5 @@
 - 202301135 Kashish Kanjariya
 - 202203044 Krushi Sutariya
 - 202201504 Kishan Pansuriya
+- 202412108 Jenil Soni
+
