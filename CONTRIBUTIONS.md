@@ -5,6 +5,7 @@
 - 202301447 Atik Vohra
 - 202301272 Dhruv Jain
 - 202301023 Tirth Patel
+- 202301273 Jill Chhagnani
 - 202412084 Bhavika Sakarvadiya
 - 202412024 Hitiksha Jagani
 - 202311043 Nirmal Shah
