@@ -30,6 +30,7 @@
 - 202412076 Pratyush Jha
 - 202301258 Rishik Yalamanchili
 - 202412077 Vashisht Purani
+- 202401403 Anaya Shah
 - 202301135 Kashish Kanjariya
 - 202203044 Krushi Sutariya
 - 202201504 Kishan Pansuriya
