@@ -15,6 +15,7 @@
 - 202412040 Virag Koradiya
 - 202412058 Harsh Parakh
 - 202412074 Anirudh Lohiya
+- 202203067 Bhavya Boda
 - 202401415 Dhruvam Panchal
 - 202311023 Samarth Motka
 - 202311066 Ayush Sahu
