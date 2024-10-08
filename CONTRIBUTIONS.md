@@ -39,3 +39,4 @@
 - 202301035 Dhruvil Patel
 - 202411008 Parikshit Joshi
 - 202203067 Bhavya Boda
+- 202203013 Yuvraj Kathad
