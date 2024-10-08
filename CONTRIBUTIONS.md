@@ -28,6 +28,7 @@
 - 202301039 Parshv Joshi
 - 202412103 Shashank Kumar
 - 202412076 Pratyush Jha
+- 202301258 Rishik Yalamanchili
 - 202412077 Vashisht Purani
 - 202301135 Kashish Kanjariya
 - 202203044 Krushi Sutariya
