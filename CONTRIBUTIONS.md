@@ -27,6 +27,7 @@
 - 202312051 Abdullah Memon
 - 202301103 Krish Makwana
 - 202301039 Parshv Joshi
+- 202412073 Pithadiya Kirtan
 - 202412103 Shashank Kumar
 - 202412076 Pratyush Jha
 - 202301258 Rishik Yalamanchili
