@@ -31,4 +31,5 @@
 - 202203044 Krushi Sutariya
 - 202201504 Kishan Pansuriya
 - 202412108 Jenil Soni
+- 202412122 Jainam Vora
 
